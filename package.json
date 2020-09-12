@@ -32,7 +32,7 @@
     "mongoose": "^5.9.1",
     "multer": "^1.4.2",
     "multer-s3": "^2.9.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "concurrently": "^5.1.0",
     "saslprep": "^1.0.3"
   },
